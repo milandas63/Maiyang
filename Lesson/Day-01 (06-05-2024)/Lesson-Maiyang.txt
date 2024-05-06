@@ -1,0 +1,16 @@
+Start Date: 06-05-2024
+
+Maiyang Ghiselaine		7749091578		maiyangghiselaine@gmail.com     Maiyang2000
+GitHub URL: https://github.com/milandas63/Maiyang
+
++--------------------+
+| Monday, 06-05-2024 |
++--------------------+
+    =   Introduction to Flowchart
+    =   Installation of software
+        a)  JavaSE 1.8
+        b)  JavaSE 1.8 API Documentation
+        c)  EditPlus 4
+        d)  Eclipse Oxygen
+        e)  Q-Dir
+        f)  Books
